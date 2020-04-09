@@ -22,10 +22,13 @@ bio: Entrepreneur, coder, dad
 # Together with my wife I run an ecommerce business in the personalized gifts niche. Before that I worked in technology consulting. My original training is in physics, mathematics, and mechanical engineering. 
 
 interests:
-- Clojure programming language
+- Online business
 - SEO (Search Engine Optimisation)
-- Digitally generated art
-- Gymnastics
+- Indie hacking
+- Clojure & functional programming
+- Gymnastics & bodyweight strength training
+- Barefoot running
+- Hiking
 
 education:
   courses:
@@ -75,4 +78,4 @@ user_groups:
 - Visitors
 ---
 
-Tobias Locsei is co-founder of Midsummer Publishing, a web-publishing firm that curates and manages a high-traffic crafts and gifts website that ranks in the top 0.01% of most-visited sites in the internet. 
+Together with my wife I run the ecommerce and web-publishing business [homemade-gifts-made-easy.com](https:/www.homemade-gifts-made-easy.com). Before that, I studied mechical engineering and physics, did a research year in theoretical astrophysics, did a PhD in applied mathematics, worked for a few years in technology consulting and new product development, and started a homemade-gifts-made-easy.com as an experimental online side business. The side business took off and turned out to be a lot of fun, so back in 2013 my wife and I left our jobs to work on it full time and haven't looked back. These days I spend my time growing our business, playing with my kids, and expanding my coding skills.
