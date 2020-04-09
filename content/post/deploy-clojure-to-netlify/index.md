@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Deploy Clojure to Netlify"
-subtitle: "Netlify > Github"
+title: "How to Deploy a Cryogen Blog to Netlify"
+subtitle: ""
 summary: ""
 authors: [tobias]
 tags: [clojure]
 categories: []
 date: 2020-04-08T21:55:03+08:00
 lastmod: 2020-04-08T21:55:03+08:00
-featured: false
+featured: false 
 draft: false
 
 # Featured image
@@ -29,7 +29,6 @@ projects: []
 ---
 
 
-Fittingly, my first post on this blog is about how I deployed this blog :-)
 
 [Cryogen](https://cryogenweb.org/) is a static site generator written in Clojure while [Netlify](https://www.netlify.com/) is a slick and powerful platform for deploying static websites. Can they play well together? Yes!
 
@@ -97,3 +96,13 @@ netlify deploy --dir=public --prod
 
 
 Once you've made the file run `chmod +x deploy.command`. Now you can build and deploy your site just by double-clicking on the deploy.command file in Finder.
+
+
+## Update: Changed my mind and used Hugo
+
+The irony of this post is that since writing it a few days ago I've already migrated my (fledgling) blog from Cryogen to Hugo. I really liked Cryogen and in some ways the usability of the blog it generated was superior to this Hugo-generated one. However, I wanted something with a polished look and feel and the Hugo [Academic theme](https://sourcethemes.com/academic/) offered that out of the box. 
+
+I'm still going to leave this post up in case it helps other folks out there who want an easy way to deploy a Cryogen blog!
+
+
+<!-- Docs to Markdown version 1.0β21 -->
