@@ -6,5 +6,5 @@ cd "$(dirname "$BASH_SOURCE")" || {
     exit 1
 }
 
-lein do clean, run &&\
+hugo &&\
 netlify deploy --dir=public --prod
