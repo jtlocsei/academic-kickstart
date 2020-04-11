@@ -13,11 +13,11 @@ header:
 ---
 ## Home
 
-My wife and I are each working half time and home-educating our kids half time since school closed as part of the Covid-19 measures. We're very fortunate that we work for ourselves and that our work is flexible because it made adapting to this new routine relatively easy. Steph minds the kids each morning for reading, writing and math, then I mind the kids each afternoon and do some PE, math, and typing practice. When Steph and I want to work together then the kids get some iPad time. 
+My wife and I are each working half time and home-educating our kids half time since school closed as part of the Covid-19 measures. We're very fortunate that we work for ourselves and that our work is flexible because - it made adapting to this new routine relatively easy. Steph teaches the kids each morning covering reading, writing and math, then I teach the kids each afternoon covering PE, math, and typing practice. When Steph and I want to work together then the kids get some iPad time. 
 
-It's amazing seeing the kids learn typing. By the end of the Covid-19 lockdown they might be expert typists!
+It's amazing seeing the kids learn typing. By the end of the Covid-19 lockdown they'll be expert typists!
 
-We're in a townhouse in Glendalough in Perth Western Australia. It's a great location close to parks. It doesn't have a garden but we've set up an indoor gymnastics bar.  
+We're living in a townhouse in Glendalough in Perth Western Australia. It's a great location close to parks. It doesn't have a garden but we've set up an indoor gymnastics bar at the right height for the kids (and I can just about use it too if I lift up my legs). 
 
 
 ## Online Business
@@ -42,6 +42,8 @@ My eventual aim is to rewrite our poster generators so that the poster renders a
 
 ## Fitness
 
-I've been using [The Movement Athlete](https://themovementathlete.com/) app for gymnastics / calisthenics style and really enjoying the variety of the workouts. I have a niggling shoulder issue (Scapular dyskinesis) so I'm taking it pretty easy. 
+I've been using [The Movement Athlete](https://themovementathlete.com/) app for gymnastics / calisthenics style workouts and really enjoying the variety of the exercises. I have a niggling shoulder issue (scapular dyskinesis) so I'm taking it pretty easy. 
 
-_Thanks to [Derek Sivers](https://sivers.org/now) for the idea of creating [Now Page](https://nownownow.com/about)._
+<hr>
+
+Thanks to [Derek Sivers](https://sivers.org/now) for the idea of creating [Now Page](https://nownownow.com/about).
