@@ -11,6 +11,9 @@ header:
   caption: ""
   image: ""
 ---
+
+_Last updated: 12 April 2020_
+
 ## Home
 
 My wife and I are each working half time and home-educating our kids half time since school closed as part of the Covid-19 measures. We're very fortunate that we work for ourselves and that our work is flexible because - it made adapting to this new routine relatively easy. Steph teaches the kids each morning covering reading, writing and math, then I teach the kids each afternoon covering PE, math, and typing practice. When Steph and I want to work together then the kids get some iPad time. 
