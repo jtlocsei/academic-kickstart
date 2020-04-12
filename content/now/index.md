@@ -20,7 +20,7 @@ My wife and I are each working half time and home-educating our kids half time s
 
 It's amazing seeing the kids learn typing. By the end of the Covid-19 lockdown they'll be expert typists!
 
-We're living in a townhouse in Glendalough in Perth Western Australia. It's a great location close to parks. It doesn't have a garden but we've set up an indoor gymnastics bar at the right height for the kids (and I can just about use it too if I lift up my legs). 
+We're living in a townhouse in Perth in Western Australia. It's a great location close to parks. It doesn't have a garden but we've set up an indoor gymnastics bar at the right height for the kids (and I can just about use it too if I lift up my legs). 
 
 
 ## Online Business
