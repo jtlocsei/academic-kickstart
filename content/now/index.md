@@ -40,7 +40,7 @@ My criteria for the direction are that it should (a) play to our strengths (b) a
 
 Having used the [Clojure](https://clojure.org/) language for hobby projects for over a year, I'm now learning [Clojurescript](https://clojurescript.org/), especially [Re-Frame](https://github.com/day8/re-frame), which is Clojurescript's equivalent to React + Redux. I'm loving learning it.
 
-My eventual aim is to rewrite our poster generators so that the poster renders and updates in the browser instantly as the user types their text. I think that would be a far superior user experience compared to our current [poster generators](https://www.homemade-gifts-made-easy.com/personalized-poster-40th-birthday-gift.html) where the user needs to click "preview" to see their changes. Instant feedback could be a powerful tool to help users unlock their own creativity, as per Brett Victor's famous talk [Inventing on Principle](https://hacks.mozilla.org/2012/04/bret-victors-inventing-on-principle-and-a-few-things-it-inspired/). 
+My eventual aim is to rewrite our poster generators so that the poster renders and updates in the browser instantly as the user types their text. You can see an [early demo here](https://subway-live-2020-04-12.netlify.com/). I think that would be a far superior user experience compared to our current [poster generators](https://www.homemade-gifts-made-easy.com/personalized-poster-40th-birthday-gift.html) where the user needs to click "preview" to see their changes. Instant feedback could be a powerful tool to help users unlock their own creativity, as per Brett Victor's famous talk [Inventing on Principle](https://hacks.mozilla.org/2012/04/bret-victors-inventing-on-principle-and-a-few-things-it-inspired/). 
 
 
 ## Fitness
