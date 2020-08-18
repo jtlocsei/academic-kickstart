@@ -222,5 +222,6 @@ Once you include a bit of a "safety factor" in your server resources, Jelastic &
 I hope you found my Clojure web app deployment guide helpful. I hope it saved you some time helped you avoid some headaches. If you're looking for other approaches to deploying Clojure apps, then check out
 
 *   [Luminus web framework deployment docs](https://luminusweb.com/docs/deployment.html)
+*   [Running Luminus On Dokku](https://yogthos.net/posts/2019-01-19-LuminusOnDokku.html)
 *   [Eric Normand's article on JVM Deployment Options (PurelyFunctional.tv)](https://purelyfunctional.tv/article/jvm-deployment-options/)
 *   [Deploying Your First Clojure App… From the Shadows (Braveclojure.com)](https://www.braveclojure.com/quests/deploy/)
