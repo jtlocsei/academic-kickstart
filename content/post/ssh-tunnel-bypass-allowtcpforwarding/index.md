@@ -99,4 +99,4 @@ mutagen forward terminate my-port-forward
 
 There are several [workarounds described on unix.stackexchange](https://unix.stackexchange.com/questions/406695/how-to-ssh-forwarding-with-allowtcpforwarding-set-to-no), but they look fiddly and require multiple commands in multiple terminal windows. I haven't tried them. 
 
-There's also a tool called [SaSSHimi](https://www.tarlogic.com/en/blog/sasshimi-evading-allowtcpforwarding/) (for "evading AllowTcpForwarding") that looks like it may no longer be maintained. I haven't tried it either. 
+There's also a tool called [SaSSHimi](https://www.tarlogic.com/en/blog/sasshimi-evading-allowtcpforwarding/) (for "evading AllowTcpForwarding") that looks unmaintained. I haven't tried it either. 
