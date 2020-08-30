@@ -23,7 +23,7 @@ We've recently started a [Perth Online Business Owners](https://www.meetup.com/P
 
 ## Programming
 
-I'm in the process of re-writing our poster generators so that the poster renders and updates in the browser instantly as the user types their text. I think that will be a far superior user experience compared to our current [poster generators](https://www.homemade-gifts-made-easy.com/personalized-poster-40th-birthday-gift.html) where the user needs to click "preview" to see their changes. Instant feedback could be a powerful tool to help users unlock their own creativity, as per Brett Victor's famous talk [Inventing on Principle](https://hacks.mozilla.org/2012/04/bret-victors-inventing-on-principle-and-a-few-things-it-inspired/). 
+I've been writing tools to automate parts of our content creation process, e.g. for image processing and html templating. 
 
 
 
