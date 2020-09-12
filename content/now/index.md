@@ -16,9 +16,9 @@ _Last updated: 9 August 2020_
 
 ## Online Business
 
-My wife and I are growing our online business [homemade-gifts-made-easy.com](https://www.homemade-gifts-made-easy.com) by creating more content in the area of printables & templates. We've streamlined much of the workflow, but we remain bottlenecks in the process. Perhaps we could hire freelance writers or designers to speed things up. 
+My wife and I are growing printables and templates side of our online business [homemade-gifts-made-easy.com](https://www.homemade-gifts-made-easy.com). We've streamlined much of the workflow, but we remain bottlenecks in the process. Perhaps we could hire freelance writers or designers to speed things up. 
 
-We've recently started a [Perth Online Business Owners](https://www.meetup.com/Perth-Online-Business-Owners/) meetup group and are looking forward to organising our first meetup soon.
+We've recently started a [Perth Online Business Owners](https://www.meetup.com/Perth-Online-Business-Owners/) meetup group and it's been loads of fun meeting other online business owners.
 
 
 ## Programming
