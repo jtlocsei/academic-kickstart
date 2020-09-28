@@ -212,7 +212,7 @@ On Digital Ocean for equivalent RAM you'd pay **$5 / mo** regardless of resource
 
 In terms of Jelastic vs Digital Ocean pricing, it depends on whether your resource usage is intermittent or continuous, and how close you are to full resource utilisation.
 
-Once you include a bit of a "safety factor" in your server resources, Jelastic & Digital Ocean probably come out about he same price. For instance, if you were consistently using 900 MB of RAM, you'd want the next size up of Digital Ocean droplet (2 GB RAM) to cope with any fluctuations, and that would take the Digital Ocean price to $10 / mo.
+Once you include a bit of a "safety factor" in your server resources, Jelastic & Digital Ocean probably come out about the same price. For instance, if you were consistently using 900 MB of RAM, you'd want the next size up of Digital Ocean droplet (2 GB RAM) to cope with any fluctuations, and that would take the Digital Ocean price to $10 / mo.
 
 <br>
 
