@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-_Last updated: 9 August 2020_
+_Last updated: 17 October 2020_
 
 ## Online Business
 
@@ -23,7 +23,9 @@ We've recently started a [Perth Online Business Owners](https://www.meetup.com/P
 
 ## Programming
 
-I've been writing tools to automate parts of our content creation process, e.g. for image processing and html templating. 
+I'm writing a poster-generator app in [Re-frame](https://day8.github.io/re-frame/). Re-frame has clicked for me and I feel productive with it.
+
+Also, I'm teaching myself the [Fulcro](https://fulcro.fulcrologic.com/) app framework. I'm finding it hard going. It hasn't clicked for me yet but I hope it will soon.
 
 
 
