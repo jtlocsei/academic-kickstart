@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-_Last updated: 17 October 2020_
+_Last updated: 29 December 2020_
 
 ## Online Business
 
@@ -23,11 +23,7 @@ We've recently started a [Perth Online Business Owners](https://www.meetup.com/P
 
 ## Programming
 
-I'm writing a poster-generator app in [Re-frame](https://day8.github.io/re-frame/). Re-frame has clicked for me and I feel productive with it.
-
-Also, I'm teaching myself the [Fulcro](https://fulcro.fulcrologic.com/) app framework. I'm finding it hard going. It hasn't clicked for me yet but I hope it will soon.
-
-
+I'm writing an app to report which pages of a website have gained or lost the most traffic compared to a previous period. The tricky part is dealing with the [sampling errors](https://support.google.com/analytics/answer/2637192?hl=en) in Google Analytics reports.
 
 
 <hr>
